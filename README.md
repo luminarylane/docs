@@ -14,6 +14,10 @@ Luminary Lane is your AI marketing team. Lane — your AI CMO — studies your b
 - [Brand onboarding](brand-onboarding.md) — your first-run walkthrough and a tour of the workspace
 - [Integrations](integrations.md) — connecting your social, analytics, and advertising accounts
 
+## Known issues & releases
+
+Check [Issues](https://github.com/luminarylane/docs/issues) for known problems and their status, and [Releases](https://github.com/luminarylane/docs/releases) for a running log of what shipped and when.
+
 ## Need help?
 
 Email **support@luminarylane.app** and we'll get you unstuck.
