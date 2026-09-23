@@ -13,6 +13,7 @@ Luminary Lane is your AI marketing team. Lane — your AI CMO — studies your b
 - [Account & billing](account-and-billing.md) — plans, weekly Lane Cycles, add-ons, and how billing works
 - [Brand onboarding](brand-onboarding.md) — your first-run walkthrough and a tour of the workspace
 - [Integrations](integrations.md) — connecting your social, analytics, and advertising accounts
+- [Network](network.md) — importing your LinkedIn connections so Lane can find reach opportunities
 
 ## Known issues & releases
 
