@@ -42,10 +42,9 @@ https://mcp.luminarylane.app/mcp
 
 ## Good to know
 
-- **You sign in again about once a day, for now.** Lane does not yet keep an agent signed in for longer, so Hermes's sign-in lasts about a day (the exact time is set by our sign-in provider). Run `hermes mcp login lane` again when it stops working. We are fixing this.
 - Hermes can ask before it uses tools that change things. In your Hermes configuration, set `trust: untrusted` on the `lane` server. Note that Hermes's auto-approve mode (YOLO) skips that question, and because Lane's edits apply immediately, leave it off when you use Lane.
 - Lane's approval tools are not visible to a connected agent, so Hermes cannot approve, publish or send even if it is told to.
 
 ## Troubleshooting
 
-See [Connect your AI agent](connect-your-ai-agent.md#troubleshooting). If Hermes does not show Lane's tools, run `hermes mcp list` to check the server is enabled, then `hermes mcp test lane`, then `/reload-mcp`.
+See [Connect your AI agent](connect-your-ai-agent.md#troubleshooting). If Hermes does not show Lane's tools, or says it is not signed in to Lane, run `hermes mcp login lane` again. Then run `hermes mcp list` to check the server is enabled, `hermes mcp test lane`, and `/reload-mcp` in any session that was already running.
