@@ -14,6 +14,7 @@ Luminary Lane is your AI marketing team. Lane — your AI CMO — studies your b
 - [Brand onboarding](brand-onboarding.md) — your first-run walkthrough and a tour of the workspace
 - [Integrations](integrations.md) — connecting your social, analytics, and advertising accounts
 - [Network](network.md) — importing your LinkedIn connections so Lane can find reach opportunities
+- [Connect your AI agent](connect-your-ai-agent.md) — use Claude, ChatGPT or Hermes as a remote control for Lane, with your approvals kept in the app
 
 ## Known issues & releases
 
