@@ -34,7 +34,7 @@ The name an app shows on that page is chosen by the app itself, so check the add
 
 - List the brands on your account and read a brand's setup: foundation, voice, objectives, personas, competitors and market events.
 - Read Lane's status, plans and recent cycles, and see what is waiting for you.
-- Make edits directly, such as updating a persona, your brand voice, competitor notes and guardrails, your goals and which goals Lane includes in its plan, or the wording of a draft that is waiting for you. **These edits apply immediately** and replace what was there, so check what your agent changed. You can change anything back.
+- Make edits directly, such as updating a persona, your brand voice, competitor notes and guardrails, your goals and which goals Lane includes in its plan, or the wording of a draft that is waiting for you. **These edits apply immediately and replace what was there.** Lane does not keep earlier versions of your brand setup, so check what your agent changed.
 - Add LinkedIn connections to your network and submit opportunity blurbs.
 
 ## What stays with you
