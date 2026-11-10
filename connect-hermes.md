@@ -47,4 +47,4 @@ https://mcp.luminarylane.app/mcp
 
 ## Troubleshooting
 
-See [Connect your AI agent](connect-your-ai-agent.md#troubleshooting). If Hermes does not show Lane's tools, or says it is not signed in to Lane, run `hermes mcp login lane` again. Then run `hermes mcp list` to check the server is enabled, `hermes mcp test lane`, and `/reload-mcp` in any session that was already running.
+See [Connect your AI agent](connect-your-ai-agent.md#troubleshooting). If Lane's tools disappear from Hermes, a call to Lane fails with "Connection closed", or Hermes says it is not signed in to Lane, your sign-in has most likely ended. Run `hermes mcp login lane` again. Then run `hermes mcp list` to check the server is enabled, `hermes mcp test lane`, and `/reload-mcp` in any session that was already running.
