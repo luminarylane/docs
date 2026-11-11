@@ -1,11 +1,11 @@
 # Connect your AI agent
 
-If you already work with a personal AI agent, you can connect it to Lane. Your agent becomes the remote control: you ask it about your brands, and it reads from and proposes to Lane. Lane keeps running your marketing in its own cloud, and **every approval stays with you, in the app.**
+If you already work with a personal AI agent, you can connect it to Lane. Your agent becomes the remote control: you ask it about your brands, and it reads from Lane and makes edits there. Lane keeps running your marketing in its own cloud, and **every approval stays with you, in the app.**
 
 ## What you need
 
 - A Lane account with at least one brand.
-- An AI agent that lets you add connectors, which are extra tools you point it at (this works through a standard called MCP). We have tested **Claude**, **ChatGPT** and **Hermes**; see the guide for yours below.
+- An AI agent that lets you add connectors, which are extra tools you point it at (this works through a standard called MCP). We have tested **Claude**, **ChatGPT**, **Hermes**, **Grok** and **Gemini**; see the guide for yours below.
 - Lane's connector address:
 
 ```
@@ -17,6 +17,8 @@ https://mcp.luminarylane.app/mcp
 - [Claude](connect-claude.md) — add Lane as a custom connector
 - [ChatGPT](connect-chatgpt.md) — add Lane as a custom connector
 - [Hermes](connect-hermes.md) — add Lane from the command line
+- [Grok](connect-grok.md) — add Lane as a custom connector
+- [Gemini](connect-gemini.md) — add Lane as a custom connected app
 
 We list an agent only after we have tested it, and we add more as they pass.
 
